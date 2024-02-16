@@ -1,0 +1,2 @@
+- name: Build Arch Linux Package
+  uses: Menci/build-archlinux-package@beta-v1 
